@@ -26,7 +26,7 @@ npm install react-custom-rating-stars
 yarn add react-custom-rating-stars
 ```
 
-🚀 Usage
+## 🚀 Usage
 
 ```bash
 import Rating from 'react-custom-rating-stars';
@@ -41,7 +41,7 @@ export default function App() {
 }
 ```
 
-🛠 Props
+## 🛠 Props
 
 | Prop         | Type     | Default      | Description                                       |
 | ------------ | -------- | ------------ | ------------------------------------------------- |
@@ -50,16 +50,20 @@ export default function App() {
 | `size`       | `number` | `16`         | Size of each star in pixels                       |
 | `color`      | `string` | `"#facc15"`  | Raw color for stars (`yellow`, `#ff0`, `#facc15`) |
 
-📷 Preview
+## 📷 Preview
 
+```bash
 <Rating rating={3.6} size={20} color="orange" />
 <Rating rating={4.5} size={24} color="#0ea5e9" />
 <Rating rating={2.2} size={18} color="red" />
+```
 
-📄 License
-ISC
+## 📄 License
 
-🙌 Contributing
+- ISC
+
+## 🙌 Contributing
+
 Contributions are welcome! Feel free to submit pull requests or open issues.
 
 ---
