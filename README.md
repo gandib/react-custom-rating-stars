@@ -1,7 +1,7 @@
 # 🌟 react-custom-rating-stars
 
 [![npm version](https://img.shields.io/npm/v/react-custom-rating-stars)](https://www.npmjs.com/package/react-custom-rating-stars)
-[![npm downloads](https://img.shields.io/npm/dt/react-custom-rating-stars)](https://www.npmjs.com/package/react-custom-rating-stars)
+[![npm weekly downloads](https://img.shields.io/npm/dw/react-custom-rating-stars)](https://www.npmjs.com/package/react-custom-rating-stars)
 [![License: ISC](https://img.shields.io/badge/license-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 A lightweight and customizable React rating component with support for fractional ratings, custom size, and raw color input. Works perfectly with React and Next.js.
